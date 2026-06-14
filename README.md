@@ -162,10 +162,7 @@ I wrote the code myself from scratch. I used GitHub Copilot in VS Code as a help
 
 ### 2. Which AI suggestions did you use?
 
-I only accepted simple, context-based inline suggestions that matched what I already planned to implement. These included:
-
-- Automatically completing and structuring the <select> and <option> elements after I started writing the .map() logic.
-- Filling in common React patterns like (e) => onChange(e.target.value) after I began writing the onChange attribute.
+I only accepted simple, context-based inline suggestions that matched what I already planned to implement. These includes the automatically completing and structuring the <select> and <option> elements after I started writing the .map() logic and filling in common React patterns like (e) => onChange(e.target.value) after I began writing the onChange attribute.
 
 ### 3. Which suggestions did you modify or reject?
 
