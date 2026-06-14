@@ -154,6 +154,9 @@ function App() {
 export default App;
 ```
 
+**You can test the live deployment of the reusable component in this link:**
+https://frontend-challenge-kadakareer.vercel.app/
+
 ## AI Reflections
 
 ### 1. What did you use ask AI to help with?
